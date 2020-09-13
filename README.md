@@ -1,4 +1,4 @@
-# Capstone Project Showcase
+# TIET Publications Showcase
 The sole purpose of this repository is to showcase the project (TIET Publications) which is currently used in production.
 We don't have permissions to share the code of the original project https://github.com/dpmittal/capstone_portal (private repo).
 
